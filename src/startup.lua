@@ -25,3 +25,4 @@ if options then
   shell.run("/AppData/System/AltBoot.lua")
 end
 
+shell.run("/AppData/System/Desktop.lua")
